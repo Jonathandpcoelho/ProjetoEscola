@@ -1,2 +1,2 @@
 # ProjetoEscola
-crud usando NetBeans + DbeaverPostgre
+crud usando NetBeans + DbeaverPostgres
