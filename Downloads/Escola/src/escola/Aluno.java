@@ -1,3 +1,7 @@
+// classe Aluno, coleta dados dos alunos e joga pro banco na tabela.
+
+
+
 package escola;
 
 import java.sql.Connection;
